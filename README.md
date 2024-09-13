@@ -1,1 +1,1 @@
-# globalmaster-task
+Zadanie rozpoczęłam tworząc baner i jego elementy, następnie stworzyłam nagłówek kategorii oraz przycisk "view all" i stworzyłam kafelki z kategoriami. Następnie wystylizowałam wszystko w pliku CSS. Podczas wykonywania zadania wspomagałam się informacjami o elementach na stronie za pomocą DevTools. Niestety zabrakło mi czasu na stworzenie strony, aby była responsywna, ponieważ jest to dla mnie nowy temat, którego nie przerabiałam w szkole, ale z pewnością nauczę się tego i podczas praktyk nie będzie to już dla mnie problemem.
